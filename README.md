@@ -21,4 +21,4 @@ SwiftUI/Swift
 https://user-images.githubusercontent.com/66451506/124243091-4a54f080-dad2-11eb-8a8a-9b26f92e673a.mov
 
 # Inspirations
-Sean allen from youtube! Amazinf videos from this guy! I wanted to try one of his topics and It came out nicely
+Sean allen from youtube! Amazing videos from this guy! I wanted to try one of his topics and It came out nicely
